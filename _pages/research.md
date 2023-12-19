@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /publications/
-title: publications
+permalink: /research/
+title: research
 description: 
-nav: false
+nav: true
 nav_order: 1
 ---
 <!-- _pages/publications.md -->

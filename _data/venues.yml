@@ -1,6 +1,7 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"JoE":
+  url: https://www.sciencedirect.com/journal/journal-of-econometrics
+  color: "#e49339"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"QE":
+  url: https://onlinelibrary.wiley.com/journal/17597331
+  color: "#3da1e9"
