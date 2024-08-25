@@ -24,7 +24,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am an Assistant Professor in the Department of Data Science & Analytics at BI Norwegian Business School.
 
-My research is focused on statistical and econometric theory.
+My research is focussed on Data Science, Statistics and Econometrics. I have a particular interest in methodological aspects of statistical inference, with a view to its application in the social sciences.
  <!-- I have a particular interest in the statistical properties of infinite dimensional models.  -->
 
 I obtained my PhD from Universitat Pompeu Fabra in 2022. 
