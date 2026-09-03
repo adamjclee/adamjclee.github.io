@@ -6,7 +6,7 @@ title: Adam Lee # the website title (if blank, full name will be used instead)
 first_name: Adam
 middle_name: 
 last_name: Lee
-email: adam.lee@bi.no
+email: adam.lee@upf.edu
 description:
 footer_text: 
 keywords: Statistics, Econometrics
@@ -81,7 +81,7 @@ osf_id: # your OSF ID
 research_gate_profile: # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
-work_url: https://www.bi.edu/about-bi/employees/department-of-data-science-and-analytics/adam-lee/ # work page URL
+work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)

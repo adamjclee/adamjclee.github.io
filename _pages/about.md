@@ -3,9 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: 
-# BI Norwegian Business School 
-
-# <a href='#'>Department of Data Science & Analytics, BI Norwegian Business School</a>. 
 
 profile:
   align: right
@@ -22,13 +19,13 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am an Assistant Professor in the Department of Data Science & Analytics at BI Norwegian Business School.
+I am an Assistant Professor in the Department of Economics & Business, Universitat Pompeu Fabra and Affiliated Professor at the Barcelona School of Economics
 
 My research is focused on Econometrics & Statistics.
  <!-- I have a particular interest in methodological aspects of Data Science & Statistics, with a view to its application in the social sciences. -->
  <!-- I have a particular interest in the statistical properties of infinite dimensional models.  -->
 
-I obtained my PhD from Universitat Pompeu Fabra in 2022. 
+<!-- I obtained my PhD from Universitat Pompeu Fabra in 2022.  -->
 
 [CV](https://adamjclee.github.io/assets/pdf/cv.pdf)
 
