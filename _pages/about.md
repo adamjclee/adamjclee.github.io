@@ -19,7 +19,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am an Assistant Professor in the Department of Economics & Business, Universitat Pompeu Fabra and Affiliated Professor at the Barcelona School of Economics
+I am an Assistant Professor in the Department of Economics & Business at Universitat Pompeu Fabra and Affiliated Professor at the Barcelona School of Economics
 
 My research is focused on Econometrics & Statistics.
  <!-- I have a particular interest in methodological aspects of Data Science & Statistics, with a view to its application in the social sciences. -->
